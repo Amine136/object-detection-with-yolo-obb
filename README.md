@@ -28,3 +28,9 @@ Make sure you have Python installed on your system.
 3. Run the application:
    ```bash
    streamlit run main.py
+
+
+### Folder Structure
+1. testset/: Contains sample test images for validating the detection model.
+2. main.py: The Streamlit application for uploading images and visualizing results.
+3. requirements.txt: List of dependencies required to run the project.
